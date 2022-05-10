@@ -1,0 +1,2 @@
+# MakeDissolveShader
+Unityの2Dのディゾルブシェーダー
